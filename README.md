@@ -50,3 +50,7 @@ My name is Ruben van der Waerden and I am a Medical Engineer. I have studied Bio
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rubenvdwaerden1997&theme=dark&background=000000)](https://git.io/streak-stats)
 
+
+### Any questions?
+
+Please contact me using my Linkedin or drop an e-mail.
