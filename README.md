@@ -28,7 +28,7 @@
 My name is Ruben van der Waerden and I am a Medical Engineer. I have studied Biomedical Engineering at the Technical University of Eindhoven.
 
 
-- 🔭 I’m currently looking for a full-time job.
+- 🔭 I’m doing a PhD at the Radboud UMC (Nijmegen, the Netherlands).
 - 🌱 Currently learning more of the world of Data Science and Artificial Intelligence, in a Medical setting.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rubenwaerden/)
 - ⚡ In my free time, I like to go for a run or enjoy time with my friends.
