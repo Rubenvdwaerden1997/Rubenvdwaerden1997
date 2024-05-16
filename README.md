@@ -54,4 +54,4 @@ My name is Ruben van der Waerden and I am a Medical Engineer. I have studied Bio
 
 ### Any questions?
 
-Please contact me using my Linkedin or [find me on my website](https://rubenvdwaerden.com).
+Please contact me using my Linkedin or find me on my [website](https://rubenvdwaerden.com).
